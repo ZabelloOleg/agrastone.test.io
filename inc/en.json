@@ -85,5 +85,59 @@
 	"question_form_label_1": "Name*",
 	"question_form_label_2": "Email*",
 	"question_form_label_3": "Message*",
-	"question_form_btn": "Submit <i class='icon-send'></i>"
+	"question_form_btn": "Submit <i class='icon-send'></i>",
+
+
+	"about_us_intro_title": "Our approach",
+	"about_us_intro_text": "Financial consulting and expert coaching firm, with more than 10 years of experience. We offer you simple, professional and fair solutions for an unrivaled tailor-made experience.",
+
+	"approach_title": "APPROACH",
+	"approach_text": "Our value proposition is anchored on a strategic deployment of five powerful service levers designed to differentiate you:",
+
+	"approach_list_title_1": "Customer Focus",
+	"approach_list_text_1": "In-depth understanding of client needs in financing, wealth management, private equity and business valuation.",
+
+	"approach_list_title_2": "Local and international synergy",
+	"approach_list_text_2": "Effective approach to maximize investment opportunities while taking into account local specificities.",
+
+	"approach_list_title_3": "Savings and Sustainability",
+	"approach_list_text_3": "Use of advanced tools to optimize evaluation processes, negotiations and ensure financial sustainability.",
+
+	"approach_list_title_4": "Operational and Digital<br>Optimization",
+	"approach_list_text_4": "Improvement of evaluation processes through optimized financial, cash and investment management.",
+
+	"approach_list_title_5": "Service Excellence",
+	"approach_list_text_5": "Placing the customer at the heart of operations, favoring transparency and communication in business evaluation.",
+	
+	"founder_title": "Christian, founder of Agrastone",
+	"founder_text_1": "also known as Chris, is a financial expert and coach with over ten years of international experience.It is committed to supporting its clients in achieving their medium and long-term financial objectives. Chris has served on financial committees, finance departments and boards of directors, providing valuable perspectives. He founded a company specializing in managing financial complexity with discretion.",
+	"founder_text_2": "Based in Lausanne, Chris has collaborated with various organizations such as the Solevo Group, IMD, the World Health Organization, Deloitte & Associés, the State of Vaud, Société Générale Corporate Investment Banking and CA Indosuez Wealth Management, among others. Chris studied at EMLYON Business School in France and Wake Forest University School of Business in the United States.",
+	"founder_text_3": "He is also a certified wealth manager and is affiliated with the Swiss Association of Financial Analysts.",
+
+	"founder_btn_1": "Learn more",
+	"founder_btn_2": "<i class='icon-download'></i> Download CV",
+
+	"table_title": "Learn more about Chris",
+	"table_year": "Year",
+	"table_info": "Info",
+
+	"services_title": "Services",
+	"services_text": "Welcome to our deliverables overview, where the power of design and strategy combine to create effective decision support tools for leaders.",
+
+	"card_services_title_1": "Simplify understanding of finance",
+	"card_services_text_1": "Don't let financial confusion hold you back - our simplified approach to finance unlocks the power of your numbers and paves the way for sustainable growth and long-term success.",
+
+	"card_services_title_2": "Asset and wealth management",
+	"card_services_text_2": "Optimize and enhance your financial assets;<br>monitor in real time thanks to the automation<br>of your tools.",
+
+	"card_services_title_3": "Management, forecasting and prospective",
+	"card_services_text_3": "Discover the key to long-term success by working with us. Let our service guide you to stable profits, wiser investments and projections",
+
+	"card_services_title_4": "Financial planning and cash flow",
+	"card_services_text_4": "Discover the power of financial foresight with<br>our predictive planning and cash flow<br>solutions – we'll help you stay one step<br>ahead and achieve your business goals with<br>ease.",
+
+	"card_services_title_5": "Financial advice for individuals, entrepreneurs and businesses.",
+	"card_services_text_5": "Developing adequate financial solutions is<br>easier than it seems. Discover the ease and<br>simplicity of an acquisition audit or<br>investment recommendation."
 }
+
+

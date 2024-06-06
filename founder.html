@@ -47,31 +47,28 @@
                 />
               </svg>
             </a>
-            <h6>Welcome to Agrastone</h6>
+            <h6 data-lang="mobile_header_title">Welcome to Agrastone</h6>
           </div>
           <ul class="menu">
             <li>
-              <a class="opener" href="/index.html">About us</a>
+              <a class="opener" href="/index.html" data-lang="menu_item_1">About us</a>
               <ul class="drop">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="#">Analytics</a></li>
-                <li><a href="#">Clients</a></li>
+                <li class="active"><a href="#" data-lang="sub_menu_item_1">Home</a></li>
+                <li><a href="#" data-lang="sub_menu_item_2">Analytics</a></li>
+                <li><a href="#" data-lang="sub_menu_item_3">Clients</a></li>
               </ul>
             </li>
-            <li><a href="/about-us.html">Our approach</a></li>
-            <li><a href="/founder.html">Founder</a></li>
-            <li><a href="/services.html">Services</a></li>
-            <li><a href="/contact.html">Contact Us</a></li>
+            <li><a href="/about-us.html" data-lang="menu_item_2">Our approach</a></li>
+            <li><a href="/founder.html" data-lang="menu_item_3">Founder</a></li>
+            <li><a href="/services.html" data-lang="menu_item_4">Services</a></li>
+            <li><a href="/contact.html" data-lang="menu_item_5">Contact Us</a></li>
           </ul>
         </nav>
         <div class="select-box">
-          <!-- <select class="drop-select">
-						<option>Eng</option>
-						<option>Fr</option>
-						<option>Ger</option>
-					</select> -->
-          <img src="images/flag-gb.svg" alt="image description" />
-          <span>Eng <i class="icon-chevron-down"></i></span>
+          <select class="drop-select">
+            <option value="en">Eng</option>
+            <option value="de">De</option>
+          </select>
         </div>
         <a href="#" class="nav-opener"><span></span></a>
       </header>
@@ -79,7 +76,7 @@
         <main class="main" id="main">
           <section class="founder">
             <div class="container">
-              <div class="team-detail">
+              <div class="team-detail viewport move-effect">
                 <div class="img-box">
                   <div class="photo-box">
                     <img src="images/founder.png" alt="image description" />
@@ -100,21 +97,21 @@
                   </ul>
                 </div>
                 <div class="text-box text-7">
-                  <h1 class="h3">Christian, founder of Agrastone</h1>
-                  <p>
+                  <h1 class="h3" data-lang="founder_title">Christian, founder of Agrastone</h1>
+                  <p data-lang="founder_text_1">
                     also known as Chris, is a financial expert and coach with over ten years of international experience.It is committed to supporting its clients in achieving
                     their medium and long-term financial objectives. Chris has served on financial committees, finance departments and boards of directors, providing valuable
                     perspectives. He founded a company specializing in managing financial complexity with discretion.
                   </p>
-                  <p>
+                  <p data-lang="founder_text_2">
                     Based in Lausanne, Chris has collaborated with various organizations such as the Solevo Group, IMD, the World Health Organization, Deloitte & Associés, the
                     State of Vaud, Société Générale Corporate Investment Banking and CA Indosuez Wealth Management, among others. Chris studied at EMLYON Business School in France
                     and Wake Forest University School of Business in the United States.
                   </p>
-                  <p>He is also a certified wealth manager and is affiliated with the Swiss Association of Financial Analysts.</p>
+                  <p data-lang="founder_text_3">He is also a certified wealth manager and is affiliated with the Swiss Association of Financial Analysts.</p>
                   <div class="btn-group">
-                    <a href="#" class="btn btn-primary-outline open">Learn more</a>
-                    <a href="#" class="btn btn-primary-outline"><i class="icon-download"></i> Download CV</a>
+                    <a href="#" class="btn btn-primary-outline open" data-lang="founder_btn_1">Learn more</a>
+                    <a href="#" class="btn btn-primary-outline" data-lang="founder_btn_2"><i class="icon-download"></i> Download CV</a>
                   </div>
                 </div>
               </div>
@@ -122,12 +119,12 @@
           </section>
           <section class="popup-section">
             <div class="container">
-              <h2 class="h1">Learn more about Chris</h2>
+              <h2 class="h1" data-lang="table_title">Learn more about Chris</h2>
               <table class="info-table">
                 <thead>
                   <tr>
-                    <th>Year</th>
-                    <th>Info</th>
+                    <th data-lang="table_year">Year</th>
+                    <th data-lang="table_info">Info</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -178,15 +175,15 @@
         </main>
       </div>
       <footer class="footer">
-        <div class="container">
+        <div class="container viewport move-effect">
           <div class="list-holder">
             <nav class="footer-navigation">
               <ul class="footer-menu">
-                <li><a href="#">About us</a></li>
-                <li><a href="#">Our approach</a></li>
-                <li><a href="#">Founder</a></li>
-                <li><a href="#">Services</a></li>
-                <li><a href="#">Contact Us</a></li>
+                <li><a href="/index.html" data-lang="menu_item_1">About us</a></li>
+                <li><a href="/about-us.html" data-lang="menu_item_2">Our approach</a></li>
+                <li><a href="/founder.html" data-lang="menu_item_3">Founder</a></li>
+                <li><a href="/services.html" data-lang="menu_item_4">Services</a></li>
+                <li><a href="/contact.html" data-lang="menu_item_5">Contact Us</a></li>
               </ul>
             </nav>
             <ul class="social-list-footer">
@@ -202,11 +199,11 @@
             </ul>
           </div>
           <ul class="privacy-list">
-            <li><a href="#">Terms of Service</a></li>
-            <li><a href="#">Privacy Policy</a></li>
+            <li><a href="#" data-lang="terms_of_service">Terms of Service</a></li>
+            <li><a href="#" data-lang="privacy_policy">Privacy Policy</a></li>
           </ul>
           <div class="copyright-box">
-            <p><span>&copy;</span> 2024 . All rights reserved.</p>
+            <p data-lang="copyright"><span>&copy;</span> 2024 . All rights reserved.</p>
           </div>
         </div>
       </footer>
