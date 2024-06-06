@@ -1,0 +1,89 @@
+{
+	"mobile_header_title": "Willkommen bei Agrastone",
+
+	"menu_item_1": "Über uns",
+	"menu_item_2": "Unser Vorgehen",
+	"menu_item_3": "Gründer",
+	"menu_item_4": "Dienstleistungen",
+	"menu_item_5": "Kontaktiere uns",
+
+	"sub_menu_item_1": "Heim",
+	"sub_menu_item_2": "Analyse",
+	"sub_menu_item_3": "Kunden",
+
+	"terms_of_service": "Nutzungsbedingungen",
+	"privacy_policy": "Datenschutzrichtlinie",
+	"copyright": "<span>&copy;</span> 2024 . Alle Rechte vorbehalten.",
+
+	"contact_intro_title": "Warten Sie nicht auf die Gelegenheit.",
+	"contact_intro_text": "Wir sind für Sie da, wenn es um finanzielle Probleme geht, egal ob beruflich oder privat",
+	"contact_title": "Vereinbaren Sie jetzt einen Termin mit Ihrem Finanzexperten.",
+	"contact_text": "Warten Sie nicht auf Veränderungen, sondern schaffen Sie sie. Wir zeigen Ihnen wie. Das erste Beratungsgespräch ist kostenlos und unverbindlich.",
+	"contact_btn": "Jetzt buchen",
+
+	"hero_title": "<span>Agrastein</span><br>Ihr Partner für Finanztransaktionen",
+	"hero_text": "Getreu unserem Anspruch möchten wir unseren Kunden durch qualitativ hochwertige Beratung dabei helfen, ihre mittel- und langfristigen finanziellen Ziele zu erreichen.",
+
+	"description_list_title_1": "Agrastein",
+	"description_list_title_2": "Unsere maßgeschneiderten",
+	"description_list_title_3": "Lassen Sie uns",
+
+	"description_list_text_1": "ist ein Finanzberatungsunternehmen, das die perfekte Balance zwischen Professionalität und Einfachheit schafft.",
+	"description_list_text_2": "Lösungen ermöglichen Schweizer Unternehmen und Startups, Höchstleistungen und strategischen Erfolg zu erzielen.",
+	"description_list_text_3": "helfen Ihnen, mit unseren branchenführenden Services das volle Potenzial Ihres Unternehmens auszuschöpfen.",
+
+	"contact_us_section_title": "Kontaktieren Sie uns jetzt, um die Reise zum Erfolg zu beginnen!",
+	"why_list_item_1": "100% kostenlose Beratung",
+	"why_list_item_2": "15% garantierte Betriebseinsparungen über 5 Jahre",
+	"why_list_item_3": "Maximieren Sie Ihr Potenzial – denn jede Aktion zählt für den Erfolg Ihres Projekts",
+	"contact_us_section_btn": "Jetzt buchen",
+
+	"what_we_do_title": "Was wir tun?",
+	"what_we_do_text_1": "Unsere oberste Verpflichtung bei Agrastone besteht darin, für jeden unserer Kunden maßgeschneiderte Lösungen zu entwickeln.",
+	"what_we_do_text_2": "Wir verfolgen einen sorgfältigen Ansatz, der darauf abzielt, Ihre Prioritäten zu identifizieren, Chancen zu nutzen, Spitzentechnologien zu integrieren, Ihre Abläufe zu optimieren und Ihre Einsparungen zu maximieren. In diesem Sinne präsentieren wir Ihnen gerne konkrete Lösungen sowie eine umfassende Palette möglicher Szenarien.",
+	"what_we_do_btn": "Kontaktiere uns",
+
+	"what_list_item_title_1": "Kundenorientierung",
+	"what_list_item_text_1": "Tiefgreifendes Verständnis der Kundenbedürfnisse in den Bereichen Finanzierung, Vermögensverwaltung, Private Equity und Unternehmensbewertung.",
+
+	"what_list_item_title_2": "Lokale und internationale Synergie",
+	"what_list_item_text_2": "Effektiver Ansatz zur Maximierung von Investitionsmöglichkeiten unter Berücksichtigung lokaler Besonderheiten.",
+
+	"what_list_item_title_3": "Einsparungen und Nachhaltigkeit",
+	"what_list_item_text_3": "Einsatz fortschrittlicher Tools zur Optimierung von Bewertungsprozessen und Verhandlungen sowie zur Gewährleistung der finanziellen Nachhaltigkeit.",
+
+	"deliverables_title": "Leistungen",
+	"deliverables_text": "Willkommen zu unserer Leistungsübersicht, wo die Kraft von Design und Strategie vereint wird, um wirksame Entscheidungshilfen für Führungskräfte zu schaffen.",
+
+	"slder_title_1": "Der Titel des Videos steht hier",
+	"slder_text_1": "Hier steht die Beschreibung des Videos und dies ist das Miniaturbild des Videos. Diese Reihenfolge sollte beim Laden eines Videos immer eingehalten werden.",
+
+	"clients_title": "Kunden",
+	"clients_text": "Wählen Sie einen vertrauenswürdigen Experten mit nachweislicher Erfahrung in der Arbeit mit Startups und internationalen Organisationen",
+
+	"clients_card_title_1": "Für Unternehmen",
+	"clients_card_btn_1": "Kostenlose Beratung erhalten",
+
+	"clients_card_title_2": "Für Unternehmer und Startups",
+	"clients_card_btn_2": "Kostenlose Beratung erhalten",
+
+	"clients_card_title_3": "Für Einzelpersonen",
+	"clients_card_btn_3": "Kostenlose Beratung erhalten",
+
+	"question_form_title": "Haben Sie Fragen? Fragen Sie uns alles",
+	"question_form_text": "Nehmen Sie einfach Kontakt mit uns auf. Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
+
+	"question_form_address_title": "Adresse:",
+	"question_form_address": "Lausanne, Schweiz",
+
+	"question_form_email_title": "Email:",
+	"question_form_email_link": "contact@agrastone.com",
+
+	"question_form_phone_title": "Jetzt anrufen:",
+	"question_form_phone_link": "+41 78 220 6994",
+
+	"question_form_label_1": "Name*",
+	"question_form_label_2": "Email*",
+	"question_form_label_3": "Nachricht*",
+	"question_form_btn": "Einreichen <i class='icon-send'></i>"
+}

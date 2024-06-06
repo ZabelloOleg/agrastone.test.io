@@ -1,0 +1,89 @@
+{
+	"mobile_header_title": "Welcome to Agrastone",
+
+	"menu_item_1": "About us",
+	"menu_item_2": "Our approach",
+	"menu_item_3": "Founder",
+	"menu_item_4": "Services",
+	"menu_item_5": "Contact Us",
+
+	"sub_menu_item_1": "Home",
+	"sub_menu_item_2": "Analytics",
+	"sub_menu_item_3": "Clients",
+
+	"terms_of_service": "Terms of Service",
+	"privacy_policy": "Privacy Policy",
+	"copyright": "<span>&copy;</span> 2024 . All rights reserved.",
+
+	"contact_intro_title": "Don't wait for the opportunity.",
+	"contact_intro_text": "We are here to help you with any financial problem, whether professional or personal",
+	"contact_title": "Make an appointment now with your financial expert.",
+	"contact_text": "Don't wait for change, create it. Let us show you how.<br>Your first consultation is free and without obligation.",
+	"contact_btn": "Reserve now",
+
+	"hero_title": "<span>Agrastone</span><br>Your partner in financial operations",
+	"hero_text": "True to our commitment, we aim to help our clients achieve their medium and long-term financial goals with quality advice.",
+
+	"description_list_title_1": "Agrastone",
+	"description_list_title_2": "Our tailor-made",
+	"description_list_title_3": "Let us",
+
+	"description_list_text_1": "is a financial consulting firm that strikes the perfect balance between professionalism and simplicity.",
+	"description_list_text_2": "solutions enable Swiss companies and startups to achieve peak performance and strategic success.",
+	"description_list_text_3": "help you unlock the full potential of your business with our industry-leading services.",
+
+	"contact_us_section_title": "Contact us now to start the journey to success !",
+	"why_list_item_1": "100% free consultation",
+	"why_list_item_2": "15% guaranteed savings on operations over 5 years",
+	"why_list_item_3": "Maximize your potential - because every action counts for the success of your project",
+	"contact_us_section_btn": "Reserve now",
+
+	"what_we_do_title": "What We do?",
+	"what_we_do_text_1": "At Agrastone, our first commitment is to develop tailor-made solutions for each of our clients.",
+	"what_we_do_text_2": "We implement a meticulous approach that aims to identify your priorities, seize opportunities, integrate cutting-edge technologies, optimize your operations and maximize your savings. With this in mind, we are delighted to present concrete solutions as well as an exhaustive range of possible scenarios.",
+	"what_we_do_btn": "Contact Us",
+
+	"what_list_item_title_1": "Customer Focus",
+	"what_list_item_text_1": "In-depth understanding of client needs in financing, wealth management, private equity and business valuation.",
+
+	"what_list_item_title_2": "Local and international synergy",
+	"what_list_item_text_2": "Effective approach to maximize investment opportunities while taking into account local specificities.",
+
+	"what_list_item_title_3": "Savings and Sustainability",
+	"what_list_item_text_3": "Use of advanced tools to optimize evaluation processes, negotiations and ensure financial sustainability.",
+
+	"deliverables_title": "Deliverables",
+	"deliverables_text": "Welcome to our deliverables overview, where the power of design and strategy combine to create effective decision support tools for leaders.",
+
+	"slder_title_1": "The title of the video is written here",
+	"slder_text_1": "The description of the video is written here, and this is the thumbnail of the video. It should always be in this order when a video is loaded.",
+
+	"clients_title": "Clients",
+	"clients_text": "Choose a trusted expert with proven experience working with startups and international organizations",
+
+	"clients_card_title_1": "For Businesses",
+	"clients_card_btn_1": "Get free consultation",
+
+	"clients_card_title_2": "For entrepreneurs and startups",
+	"clients_card_btn_2": "Get free consultation",
+
+	"clients_card_title_3": "For individuals",
+	"clients_card_btn_3": "Get free consultation",
+
+	"question_form_title": "Got questions? Ask us anything",
+	"question_form_text": "Feel free to get in touch. We’ll get back within 24 hours.",
+
+	"question_form_address_title": "Address:",
+	"question_form_address": "Lausanne, Switzerland",
+
+	"question_form_email_title": "Email:",
+	"question_form_email_link": "contact@agrastone.com",
+
+	"question_form_phone_title": "Call Now:",
+	"question_form_phone_link": "+41 78 220 6994",
+
+	"question_form_label_1": "Name*",
+	"question_form_label_2": "Email*",
+	"question_form_label_3": "Message*",
+	"question_form_btn": "Submit <i class='icon-send'></i>"
+}
